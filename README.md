@@ -26,5 +26,5 @@ At Shero Bot, we value the privacy and security of our users. This Privacy Polic
 # Changes to this Policy
 6.1 We may update this Policy from time to time to reflect changes in our practices or to comply with legal requirements. We will notify users of any changes by posting the updated Policy on our website or through other appropriate means.
 
-Contact Us
+# Contact Us
 7.1 If you have any questions or concerns about this Policy, please contact us our support server
